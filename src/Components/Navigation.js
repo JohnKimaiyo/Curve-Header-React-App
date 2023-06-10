@@ -15,6 +15,7 @@ function Navigation() {
             <Nav.Link href="#pricing">Forex</Nav.Link>
             <Nav.Link href="#features">Crypto</Nav.Link>
             <Nav.Link href="#pricing">ETFs</Nav.Link>
+            <Nav.Link href="#pricing">Mutual Funds</Nav.Link>
           </Nav>
         </Container>
       </Navbar>
