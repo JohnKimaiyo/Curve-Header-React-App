@@ -4,7 +4,9 @@ export default function Header() {
   return (
     <div>
       <div className="overlay">
-        <h1>Macro Afrik News App</h1>
+        <header>
+          <h1>Macro Afrik News App</h1>
+        </header>
       </div>
     </div>
   );
